@@ -1,1 +1,2 @@
-# A9-wifi-camera-prefix-DGK-
+# A9 wifi camera (prefix: DGK)
+
